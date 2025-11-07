@@ -1,4 +1,5 @@
-# 📐 Inverse Matrix Calculator (Gauss-Jordan Method)
+# 📐 Inverse Matrix Calculator (Gauss-Jordan Method) 
+# 👤 Author : MattCarneiiro
 This project implements a calculator to determine the inverse matrix ($A^{-1}$) of a square matrix of order $N$ (dynamic), using the Gauss-Jordan Elimination algorithm in conjunction with the Augmented Matrix technique $[A|I]$.The code was developed in MIPS Assembly for simulation in environments such as MARS (MIPS Assembler and Runtime Simulator), and it uses dynamic memory allocation (the sbrk syscall).
 ## ✨ Features
 ### -Dynamic Size ($N$): The user can define the size of the square matrix $N$, with a limit of $2 \le N \le 10$.
@@ -18,4 +19,4 @@ This project implements a calculator to determine the inverse matrix ($A^{-1}$) 
 ### -The program will display the Original Matrix $A$.
 ### -If the matrix is invertible, it will display the Inverse Matrix $A^{-1}$ (the last $N$ columns of the final Augmented Matrix).
 ### -If the matrix is singular, it will display the appropriate error message.
-##👤 Author : MattCarneiiro
+
