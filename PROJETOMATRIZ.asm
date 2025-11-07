@@ -1,5 +1,3 @@
-#autor: Matheus Moreira Carneiro
-#RA23003891
 
 .data
 # --- Definição das Mensagens de Experiência do Usuário  ---
